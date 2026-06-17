@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0529,35:4C1D95,70:7C3AED,100:A855F7&text=Muhammad%20Aazmeer&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%40%20XEVNOX%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0529,35:4C1D95,70:7C3AED,100:A855F7&text=Muhammad%20Aazmeer&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%40%20XEVNOX%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Generative%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Future-Ready+Digital+Product+Builder;MERN+Stack+%7C+Python+%7C+WordPress+%7C+AI;Building+XEVNOX+into+an+Engineering+Ecosystem;Vision%3A+MIT+%E2%80%A2+ICPC+%E2%80%A2+Research+%E2%80%A2+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Muhammad+Aazmeer+%7C+Founder+%40+XEVNOX;MongoDB+%7C+Express+%7C+Node.js+%7C+React+%7C+Next.js;Tailwind+CSS+%7C+Python+%7C+Generative+AI+%7C+RAG;Building+Systems+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,17 +32,18 @@
 
 ### `whoami`
 
-I am **Muhammad Aazmeer**, founder of **XEVNOX**, building future-ready digital products with a strong focus on **MERN stack engineering, AI systems, backend architecture, automation, and product design**.
+I am **Muhammad Aazmeer**, founder of **XEVNOX**, building full-stack web applications and AI-powered products. My core stack is **MongoDB, Express, Node.js, React, Next.js, Tailwind CSS, Python, Generative AI, and RAG systems**.
 
-My mission is not just to build websites — it is to build **systems**, **platforms**, and eventually **research-backed AI products** that create real-world impact.
+My mission is not just to build websites — it is to build **systems**, **platforms**, and **research-backed AI products** that create real-world impact.
 
 ```txt
 Current Focus:
-├── MERN Stack Engineering
-├── React + Tailwind Production UI
+├── Full Stack Engineering (MERN + Next.js)
+├── React + Tailwind CSS Production UI
 ├── Node.js + Express Backend Systems
 ├── MongoDB Data Modeling
-├── Python + AI Foundations
+├── Python + Generative AI (LLMs, Prompting)
+├── RAG — Retrieval-Augmented Generation
 ├── Competitive Programming / DSA
 └── Long-Term Vision: MIT, ICPC, Research, XEVNOX
 ```
@@ -57,7 +58,7 @@ Current Focus:
 | Name | Muhammad Aazmeer |
 | Role | Founder @ XEVNOX |
 | Region | Pakistan |
-| Stack | MERN / Python / WordPress |
+| Stack | MERN / Next.js / Python / Gen-AI / RAG |
 | Direction | AI + Software Engineering |
 | Goal | Build elite engineering products |
 | Vision | MIT + ICPC + Research |
@@ -78,15 +79,23 @@ Current Focus:
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python&theme=dark" />
+
+### AI & Intelligent Systems
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+```txt
+Generative AI  •  RAG (Retrieval-Augmented Generation)  •  LLM Integration  •  Prompt Engineering
+```
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 
 </div>
 
@@ -216,6 +225,52 @@ Purpose:
 
 ---
 
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=999999&color=A855F7&width=500&lines=Certifications" />
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Delta — Full Stack Web Development
+
+<img src="https://img.shields.io/badge/Apna%20College-Delta-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+
+```txt
+Issuer  : Apna College
+Course  : Delta (Full Stack Web Dev)
+Stack   : React • Node.js • JavaScript • CSS3
+Status  : ✅ Completed
+```
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-Click%20Here-4C1D95?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/aazmeer-official)
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 Prime — AI / ML
+
+<img src="https://img.shields.io/badge/Apna%20College-Prime%20AI%2FML-A855F7?style=for-the-badge&logo=python&logoColor=white" />
+
+```txt
+Issuer  : Apna College
+Course  : Prime (AI/ML)
+Stack   : Python • Machine Learning • AI
+Status  : ✅ Completed
+Signed  : Shradha Khapra (Co-founder)
+```
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-Click%20Here-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white)](https://mycourse.app/kBxwBjQkMLlaEEC9e)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=999999&color=A855F7&width=500&lines=Current+Mission" />
 
 <table>
@@ -226,13 +281,13 @@ Purpose:
 
 ```txt
 01. FAST / AI Admission Preparation
-02. MERN Stack Mastery
-03. Advanced JavaScript + React
+02. Full Stack Mastery (MERN + Next.js)
+03. Advanced React + Tailwind CSS
 04. Backend Engineering with Node.js
 05. MongoDB + Database Design
-06. Python + AI Foundations
-07. DSA + Competitive Programming
-08. XEVNOX Product Ecosystem
+06. Python + Generative AI (LLMs)
+07. RAG Systems & AI Pipelines
+08. DSA + Competitive Programming
 ```
 
 </td>
