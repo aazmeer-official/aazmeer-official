@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0529,35:4C1D95,70:7C3AED,100:A855F7&text=Muhammad%20Aazmeer&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=CEO%20%40%20XEVNOX%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0529,35:4C1D95,70:7C3AED,100:A855F7&text=Muhammad%20Aazmeer&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%40%20XEVNOX%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/FSc-Part%202-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CEO-XEVNOX-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Founder-XEVNOX-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Aspirant-MIT-A855F7?style=for-the-badge&logo=mit&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
@@ -32,7 +32,7 @@
 
 ### `whoami`
 
-I am **Muhammad Aazmeer**, founder and CEO of **XEVNOX**, building future-ready digital products with a strong focus on **MERN stack engineering, AI systems, backend architecture, automation, and product design**.
+I am **Muhammad Aazmeer**, founder of **XEVNOX**, building future-ready digital products with a strong focus on **MERN stack engineering, AI systems, backend architecture, automation, and product design**.
 
 My mission is not just to build websites — it is to build **systems**, **platforms**, and eventually **research-backed AI products** that create real-world impact.
 
@@ -55,7 +55,7 @@ Current Focus:
 | Key | Value |
 | --- | --- |
 | Name | Muhammad Aazmeer |
-| Role | CEO @ XEVNOX |
+| Role | Founder @ XEVNOX |
 | Region | Pakistan |
 | Stack | MERN / Python / WordPress |
 | Direction | AI + Software Engineering |
@@ -263,7 +263,7 @@ Purpose:
 
 | System | Role |
 | --- | --- |
-| **Aazmeer** | Founder / CEO / Product Architect |
+| **Aazmeer** | Founder / Product Architect |
 | **Jarvis** | AI Brain / Personal Engineering System |
 | **EDITH** | CMO / Marketing Intelligence |
 | **VN** | Creative AI |
